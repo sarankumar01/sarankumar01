@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarankumar S
 
-🎓 *B.Sc. Computer Science Student*  
+🎓 **B.Sc. Computer Science Student**  
 📍 Tiruchirapalli, India  
 📫 [Sarankavi2005@gmail.com](mailto:Sarankavi2005@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sarankumarsaravananbavanantham/)
@@ -13,23 +13,22 @@ I'm a dynamic and detail-oriented Computer Science student passionate about soft
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-- *Languages & Tools:* HTML, CSS, JavaScript (Basic), Excel (Basic), Tableau, Power BI, SQL  
-- *Soft Skills:* Adaptiveness, Decision-Making, Communication  
-- *Languages:* Tamil, English
+- **Languages & Tools:** HTML, CSS, JavaScript (Basic), Excel (Basic), Tableau, Power BI, SQL  
+- **Soft Skills:** Adaptiveness, Decision-Making, Communication  
 
 ---
 
 ## 💼 Experience
 
-- *Virtual Job Simulation - Mastercard Advisors & Consulting Services*  
-  (Feb 2025 – Apr 2025)  
+- **Virtual Job Simulation - Mastercard Advisors & Consulting Services**  
+  *(Feb 2025 – Apr 2025)*  
   - Applied data-driven storytelling to create strategic business insights.  
   - Optimized promotional strategies using performance analytics.
 
-- *Data Analyst Intern - Accenture (Forage)*  
-  (Sep 2024)  
+- **Data Analyst Intern - Accenture (Forage)**  
+  *(Sep 2024)*  
   - Analyzed large datasets and built visualizations using Excel, Tableau, and Power BI.  
   - Developed automated workflows and SQL queries for better decision-making.
 
@@ -38,38 +37,47 @@ I'm a dynamic and detail-oriented Computer Science student passionate about soft
 ## 🌐 Projects
 
 ### Vignesh Traders Stonefront Website  
-(Dec 2024 – Mar 2025)  
+*(Dec 2024 – Mar 2025)*  
 Developed a responsive business website using HTML, CSS, and JavaScript to improve customer engagement and online visibility. The site was optimized for mobile and cross-browser compatibility.
 
 ---
 
 ## 🏅 Certifications
 
-- *HTML & CSS* – Guvi (Jan 2025)  
-- *Software Testing Tutorial* – Great Learning (Jul 2024)  
-- *HR Database Management System* – Great Learning (Mar 2024)  
-- *Introduction to Web Development* – Great Learning (Jul 2024)  
-- *Database Normalization* – Great Learning (Feb 2024)
+- **HTML & CSS** – Guvi (Jan 2025)  
+- **Software Testing Tutorial** – Great Learning (Jul 2024)  
+- **HR Database Management System** – Great Learning (Mar 2024)  
+- **Introduction to Web Development** – Great Learning (Jul 2024)  
+- **Database Normalization** – Great Learning (Feb 2024)
 
 ---
 
 ## 📝 Publications
 
-*Paper: AI in Climate Change – From Prediction to Mitigation*  
+**Paper: AI in Climate Change – From Prediction to Mitigation**  
 SRM Institute of Science and Technology, Tiruchirapalli (Feb 2025)
 
 ---
 
 ## 🏆 Achievements
 
-- *Nakuri Campus Young Turks – Oct 2024*  
+- **Nakuri Campus Young Turks – Oct 2024**  
   Scored 97.19 percentile in one of India's largest skill contests.
 
 ---
 
 ## 🤝 Volunteering
 
-*National Service Scheme (NSS)* – Student Coordinator  
+**National Service Scheme (NSS)** – Student Coordinator  
 SRM Institute of Science and Technology, Tiruchirapalli
 
 ---
+
+## 🌍 Languages
+
+- **Tamil**  
+- **English**
+
+---
+
+Thanks for stopping by! Feel free to connect or collaborate on projects!
