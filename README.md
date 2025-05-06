@@ -1,48 +1,75 @@
-🌟 **About Me:**
+# 👋 Hi, I'm Sarankumar S
 
-- 👀 I’m interested in **Web Development, Software Development, Problem-Solving, and Innovative Tech Solutions**.
-- 🌱 I’m currently learning **Advanced Web Development, Data Analysis (Excel, Tableau, Power BI), and SQL**.
-- 💬 Ask me about **HTML, CSS, JavaScript (Basic)**.
-- 💞️ I’m looking to collaborate on **Web Development Projects**, **Data Analysis Projects**, and **Technology Research**.
-- 📫 How to reach me:  
-  - ✉️ Email: [Sarankavi2005@gmail.com](mailto:Sarankavi2005@gmail.com)  
-  - 📱 Phone: +91 6381612705  
-  - 🔗 LinkedIn: [Sarankumar Saravanabavanantham](https://www.linkedin.com/in/sarankumarsaravanantham/)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact:  
-  - I achieved **97.19% percentile** in India's Largest Skill Contest (*Naukri Campus Young Turks*).
-  - Published a research paper on **AI in Climate Change: From Prediction to Mitigation**.
+🎓 *B.Sc. Computer Science Student*  
+📍 Tiruchirapalli, India  
+📫 [Sarankavi2005@gmail.com](mailto:Sarankavi2005@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sarankumarsaravananbavanantham/)
 
 ---
 
-🛠️ **Skills:**
+## 🚀 About Me
 
-- **Languages:** HTML | CSS | JavaScript (Basic)  
-- **Data Tools:** Excel (Basic), Power BI, Tableau, SQL  
-- **Soft Skills:** Adaptiveness | Decision-Making | Communication  
-- **Languages Spoken:** Tamil, English  
+I'm a dynamic and detail-oriented Computer Science student passionate about software development and web technologies. With a strong foundation in HTML, CSS, and JavaScript, I enjoy building responsive and user-friendly websites. My interests lie in web development, data visualization, and problem-solving through innovative tech solutions.
 
 ---
 
-📚 **Certifications:**
+## 🛠 Technical Skills
 
-- HTML & CSS (Guvi)
-- Introduction to Web Development (Great Learning)
-- Software Testing Tutorial (Great Learning)
-- HR Database Management System (Great Learning)
-- Database Normalization (Great Learning)
+- *Languages & Tools:* HTML, CSS, JavaScript (Basic), Excel (Basic), Tableau, Power BI, SQL  
+- *Soft Skills:* Adaptiveness, Decision-Making, Communication  
+- *Languages:* Tamil, English
 
 ---
 
-🎯 **Achievements:**
+## 💼 Experience
 
-- 🏆 Naukri Campus Young Turks — **97.19% Percentile**
-- 📝 Published Research Paper — **AI in Climate Change** (SRM Institute, 2025)
+- *Virtual Job Simulation - Mastercard Advisors & Consulting Services*  
+  (Feb 2025 – Apr 2025)  
+  - Applied data-driven storytelling to create strategic business insights.  
+  - Optimized promotional strategies using performance analytics.
+
+- *Data Analyst Intern - Accenture (Forage)*  
+  (Sep 2024)  
+  - Analyzed large datasets and built visualizations using Excel, Tableau, and Power BI.  
+  - Developed automated workflows and SQL queries for better decision-making.
 
 ---
 
-🤝 **Volunteering:**
+## 🌐 Projects
 
-- National Service Scheme (NSS) — **Student Coordinator**, Trichy
+### Vignesh Traders Stonefront Website  
+(Dec 2024 – Mar 2025)  
+Developed a responsive business website using HTML, CSS, and JavaScript to improve customer engagement and online visibility. The site was optimized for mobile and cross-browser compatibility.
+
+---
+
+## 🏅 Certifications
+
+- *HTML & CSS* – Guvi (Jan 2025)  
+- *Software Testing Tutorial* – Great Learning (Jul 2024)  
+- *HR Database Management System* – Great Learning (Mar 2024)  
+- *Introduction to Web Development* – Great Learning (Jul 2024)  
+- *Database Normalization* – Great Learning (Feb 2024)
+
+---
+
+## 📝 Publications
+
+*Paper: AI in Climate Change – From Prediction to Mitigation*  
+SRM Institute of Science and Technology, Tiruchirapalli (Feb 2025)
+
+---
+
+## 🏆 Achievements
+
+- *Nakuri Campus Young Turks – Oct 2024*  
+  Scored 97.19 percentile in one of India's largest skill contests.
+
+---
+
+## 🤝 Volunteering
+
+*National Service Scheme (NSS)* – Student Coordinator  
+SRM Institute of Science and Technology, Tiruchirapalli
 
 ---
